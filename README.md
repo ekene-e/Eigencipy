@@ -21,4 +21,4 @@ First of all, the giant that is Wikipedia. I am discovering with increasing regu
 am immensely grateful that such a resource is out there.
 
 Second, a great book by Horn and Garcia, _A Second Course in Linear Algebra_, which I found very helpful for truly learning  to a further
- extent a lot of the extensions of the linear algebra implemented in this library.
+ extent a lot of the linear algebra implemented in this library.
