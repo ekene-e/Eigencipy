@@ -20,5 +20,5 @@ Documentation for the use of utility $X$ is included in C++ docstrings right abo
 First of all, the giant that is Wikipedia. I am discovering with increasing regularity the sheer value of the maths on Wikipedia, and I
 am immensely grateful that such a resource is out there.
 
-Second, a great book by Horn and Garcia, _A Second Course in Linear Algebra_, which I found very helpful for truly learning  to a further
+Second, a great book by Brown, _A Second Course in Linear Algebra_, which I found very helpful for truly learning  to a further
  extent a lot of the linear algebra implemented in this library.
