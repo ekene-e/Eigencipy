@@ -349,7 +349,7 @@ namespace eigencipy
   /*
    * QU decomposition
    * ----------------
-   * Computes the QR decomposition of the matrix with modified Gram-Schmidt
+   * Computes the QU decomposition of the matrix with modified Gram-Schmidt
    * orthonormalization.
    *
    * @params: A, a given matrix
